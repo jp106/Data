@@ -4,7 +4,7 @@ library('leaflet')
 
 
 # TODO - When state is selected in the dropdown zoom to that state in map
-# TODO - replace statecode in dropdown with statename
+# DONE - replace statecode in dropdown with statename
 # TODO - use http://www.devinfo.org/indiacensuspopulationtotals2011/libraries/aspx/RegDataQuery.aspx
 #        rest api to get data
 state_codes <- read.csv("www/StateCodes.csv")

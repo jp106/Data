@@ -2,7 +2,7 @@
 from urllib import urlretrieve
 # from urllib2 import urlopen
 
-save_path = "C:\Users\jhansip\Downloads\downloadedfrompython\{0}.xlsx"
+save_path = "C:\downloadedfrompython\{0}.xlsx"
 
 save_ext = ".xlsx"
 save_file_name_suffix = "00"
